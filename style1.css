@@ -19,7 +19,6 @@ h2 {
 }
 
 h4 {
-    font-size: 30px;
     color: #222;
 }
 
@@ -614,7 +613,6 @@ footer .copyright {
     position: relative;
     transition: 0.3s;
 }
-
 #blog .blog-details a::after {
     content: "";
     width: 50px;
@@ -684,7 +682,6 @@ footer .copyright {
 }
 #contact-details .details span,
 #form-details form span {
-    font-size: 12px;
 }
 #contact-details .details h2,
 #form-details form h2 {
